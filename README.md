@@ -50,6 +50,7 @@ Se propone el desarrollo de unas gafas inteligentes llamadas **"SignGlasses"**, 
 - **Portabilidad:** livianas y cómodas.
 - **Ergonomía:** diseño discreto y adaptable.
 - **Autonomía:** funcionamiento sin asistencia externa.
+![image](https://github.com/user-attachments/assets/cc5addf6-0cd0-4d01-8684-e408f129bc58)
 
 ---
 
@@ -130,13 +131,15 @@ Versión futura (objetivo):
 
 ## 🔌 Diseño Funcional
 
-![Diagrama funcional del sistema](link_a_la_imagen_si_la_subís_en_el_repo)
+![image](https://github.com/user-attachments/assets/ef6916fb-c80a-49b1-bee0-212ee2517911)
+
 
 ---
 
 ## 📍 Pinout del Microcontrolador
 
-> En esta sección podés incluir una imagen o tabla del pinout, por ejemplo de la Raspberry Pi Zero 2W.
+![image](https://github.com/user-attachments/assets/02bc291e-e018-4a9b-af88-3c8914a4b226)
+
 
 ---
 
@@ -158,7 +161,9 @@ Versión futura (objetivo):
 
 ## 📬 Contacto
 
+**Ignacio Ezequiel Gauna**
+gauna.ignaciosh@hotmail.com
 **Juan Pablo Saracino**  
-**Ignacio Ezequiel Gauna**  
+saracinojuanpablo@gmail.com
 Facultad de Ingeniería – UNLZ  
 Proyecto: _SignGlasses_  
