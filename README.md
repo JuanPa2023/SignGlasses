@@ -74,7 +74,7 @@ El dispositivo tendrá dos modos de operación principales:
 - Reconocimiento con redes neuronales.
 - Síntesis de voz en español.
 
-- ![image](https://github.com/user-attachments/assets/6ab813d5-0394-4024-8b76-c2a5aab35037)
+ ![image](https://github.com/user-attachments/assets/6ab813d5-0394-4024-8b76-c2a5aab35037)
 
 
 ### 2. Voz → Texto (Oyente → Persona sorda)
@@ -82,8 +82,9 @@ El dispositivo tendrá dos modos de operación principales:
 - Transcripción por reconocimiento de voz.
 - Proyección de texto en pantalla integrada.
 
+![WhatsApp Video 2025-06-27 at 7 24 46 PM](https://github.com/user-attachments/assets/5f2f41a7-3113-42a1-be8e-e715f8c206d8)
 
-![WhatsApp Video 2025-06-27 at 7 24 46 PM](https://github.com/user-attachments/assets/ea95e0dd-5182-47cc-a678-124ba3b0aa0c)
+
 
 
 ---
