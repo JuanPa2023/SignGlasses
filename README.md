@@ -158,17 +158,14 @@ Versión futura (objetivo):
 > Dólar de referencia: 1064,15 ARS/USD
 
 ---
-
-## 📬 Contacto
-
 ## 🤝 Contacto
 
 - **Ignacio Ezequiel Gauna**  
-  - Email: gauna.ignaciosh@hotmail.com  
+  - 📬Email: gauna.ignaciosh@hotmail.com  
   - GitHub: [@TU_USUARIO](https://github.com/TU_USUARIO)
 
 - **Juan Pablo Saracino**  
-  - Email: saracinojuanpablo@gmail.com  
+  - 📬Email: saracinojuanpablo@gmail.com  
   - GitHub: [@JuanPa2023](https://github.com/JuanPa2023)
 
 **Facultad de Ingeniería – UNLZ**  
