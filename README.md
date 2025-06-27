@@ -30,6 +30,10 @@ _Dispositivo portátil de interpretación automática para personas sordas._
 
 SignGlasses es una solución innovadora que transforma unas simples gafas en un puente de comunicación inclusiva. Este dispositivo captura en tiempo real los gestos de la Lengua de Señas Argentina (LSA) y los convierte en voz clara para oyentes, al mismo tiempo que transcribe la voz hablada a texto proyectado en una pequeña pantalla integrada. Gracias a la combinación de visión por computadora, redes neuronales y procesamiento de lenguaje natural, SignGlasses ofrece una experiencia fluida, de baja latencia y alta precisión, diseñada para entornos tan diversos como aulas, consultas médicas, trámites y atención al cliente. Con un diseño ergonómico y un enfoque en la portabilidad, este proyecto busca derribar barreras lingüísticas y empoderar a las personas sordas para comunicarse con total autonomía.  
 
+
+<p align="center">
+  <img src=![image](https://github.com/user-attachments/assets/370f163e-eaf0-4626-9fab-97a9240d0677) alt="Diagrama funcional" width="400"/>
+</p>
 ![image](https://github.com/user-attachments/assets/370f163e-eaf0-4626-9fab-97a9240d0677)
 
 ---
