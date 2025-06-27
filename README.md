@@ -73,10 +73,17 @@ El dispositivo tendrá dos modos de operación principales:
 - Reconocimiento con redes neuronales.
 - Síntesis de voz en español.
 
+- ![image](https://github.com/user-attachments/assets/6ab813d5-0394-4024-8b76-c2a5aab35037)
+
+
 ### 2. Voz → Texto (Oyente → Persona sorda)
 - Captura de audio con micrófono.
 - Transcripción por reconocimiento de voz.
 - Proyección de texto en pantalla integrada.
+
+
+https://github.com/user-attachments/assets/6b300171-9f06-48bf-802c-d039deb3fb66
+
 
 ---
 
