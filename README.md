@@ -10,7 +10,7 @@ _Dispositivo portátil de interpretación automática para personas sordas._
 ---
 
 ## 📌 Índice
-
+- [🔗 Introducción](#-introducción)
 - [🎯 Motivaciones](#-motivaciones)
 - [🧩 Problemática y Oportunidad Tecnológica](#-problemática-y-oportunidad-tecnológica)
 - [💡 Descripción de la Propuesta](#-descripción-de-la-propuesta)
@@ -22,6 +22,12 @@ _Dispositivo portátil de interpretación automática para personas sordas._
 - [🔌 Diseño Funcional](#-diseño-funcional)
 - [📍 Pinout del Microcontrolador](#-pinout-del-microcontrolador)
 - [💰 Costos y Plazos de Entrega](#-costos-y-plazos-de-entrega)
+
+---
+
+## 🔗 Introducción
+
+SignGlasses es una solución innovadora que transforma unas simples gafas en un puente de comunicación inclusiva. Este dispositivo wearable captura en tiempo real los gestos de la Lengua de Señas Argentina (LSA) y los convierte en voz clara para oyentes, al mismo tiempo que transcribe la voz hablada a texto proyectado en una pequeña pantalla integrada. Gracias a la combinación de visión por computadora, redes neuronales y procesamiento de lenguaje natural, SignGlasses ofrece una experiencia fluida, de baja latencia y alta precisión, diseñada para entornos tan diversos como aulas, consultas médicas, trámites y atención al cliente. Con un diseño ergonómico y un enfoque en la portabilidad, este proyecto busca derribar barreras lingüísticas y empoderar a las personas sordas para comunicarse con total autonomía.  
 
 ---
 
