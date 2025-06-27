@@ -38,6 +38,9 @@ Muchas personas sordas se enfrentan a la falta de herramientas de comunicación 
 1. Traducir Lengua de Señas Argentina (LSA) a voz.
 2. Transcribir voz hablada a texto visible para personas sordas.
 
+   ![image](https://github.com/user-attachments/assets/9898e130-32c2-41b1-828b-ab4058537c97)
+
+
 ---
 
 ## 💡 Descripción de la Propuesta
