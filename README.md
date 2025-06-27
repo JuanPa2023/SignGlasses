@@ -163,7 +163,9 @@ Versión futura (objetivo):
 
 **Ignacio Ezequiel Gauna**
 gauna.ignaciosh@hotmail.com
+(https://github.com/TU_USUARIO)
 **Juan Pablo Saracino**  
 saracinojuanpablo@gmail.com
+(https://github.com/JuanPa2023)
 Facultad de Ingeniería – UNLZ  
 Proyecto: _SignGlasses_  
