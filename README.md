@@ -162,11 +162,11 @@ Versión futura (objetivo):
 
 - **Ignacio Ezequiel Gauna**  
   - 📬Email: gauna.ignaciosh@hotmail.com  
-  - GitHub: [@TU_USUARIO](https://github.com/TU_USUARIO)
+  - GitHub: [@IgnacioGauna](https://github.com/StylHard)
 
 - **Juan Pablo Saracino**  
   - 📬Email: saracinojuanpablo@gmail.com  
-  - GitHub: [@JuanPa2023](https://github.com/JuanPa2023)
+  - GitHub: [@SaracinoJuanPablo](https://github.com/JuanPa2023)
 
 **Facultad de Ingeniería – UNLZ**  
 _Proyecto: SignGlasses_
