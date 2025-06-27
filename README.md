@@ -98,6 +98,8 @@ El dispositivo tendrá dos modos de operación principales:
 
 > ⚠️ Por cuestiones de rendimiento, la IA se ejecutará inicialmente en una PC externa, manteniendo el hardware embebido para las demás tareas.
 
+![1_-eLjPY7UGSoQhSyW5qC6gw](https://github.com/user-attachments/assets/7b7aceaa-4a86-4de6-83ae-54c529049798)
+
 ---
 
 ## 📈 Alcance
