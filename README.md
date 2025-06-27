@@ -39,6 +39,7 @@ Muchas personas sordas se enfrentan a la falta de herramientas de comunicación 
 2. Transcribir voz hablada a texto visible para personas sordas.
 
    ![image](https://github.com/user-attachments/assets/9898e130-32c2-41b1-828b-ab4058537c97)
+   *Figura 1: ConceptArt inicial*
 
 
 ---
@@ -51,6 +52,7 @@ Se propone el desarrollo de unas gafas inteligentes llamadas **"SignGlasses"**, 
 - **Ergonomía:** diseño discreto y adaptable.
 - **Autonomía:** funcionamiento sin asistencia externa.
 ![image](https://github.com/user-attachments/assets/cc5addf6-0cd0-4d01-8684-e408f129bc58)
+*Figura 2: Estructura final de las SignGlasses*
 
 ---
 
