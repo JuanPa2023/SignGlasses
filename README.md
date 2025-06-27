@@ -1,5 +1,3 @@
-![FI logo](./assets/fi_logo.png)
-
 # 👓 SignGlasses – Proyecto de Ingeniería Mecatrónica
 
 _Dispositivo portátil de interpretación automática para personas sordas._
