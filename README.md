@@ -82,9 +82,7 @@ El dispositivo tendrá dos modos de operación principales:
 - Transcripción por reconocimiento de voz.
 - Proyección de texto en pantalla integrada.
 
-![WhatsApp Video 2025-06-27 at 7 24 46 PM](https://github.com/user-attachments/assets/5f2f41a7-3113-42a1-be8e-e715f8c206d8)
-
-
+![WhatsApp-Video-2025-06-27-at-7 24 46-PM](https://github.com/user-attachments/assets/627c5795-f23c-4d11-8adc-412123e2339c)
 
 
 ---
