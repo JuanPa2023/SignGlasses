@@ -1,5 +1,8 @@
 # 👓 SignGlasses – Proyecto de Ingeniería Mecatrónica
 
+![image](https://github.com/user-attachments/assets/1dbf2ba2-3cf5-48e0-affe-60aec8fe1acb)
+
+
 _Dispositivo portátil de interpretación automática para personas sordas._
 
 ## 🏫 Universidad Nacional de Lomas de Zamora  
