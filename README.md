@@ -7,6 +7,7 @@ _Dispositivo portátil de interpretación automática para personas sordas._
 **Autores:** Ignacio Ezequiel Gauna (DNI 42.874.840), Juan Pablo Saracino (DNI 42.113.281)  
 **Año:** 2025
 
+
 ---
 
 ## 📌 Índice
@@ -82,7 +83,7 @@ El dispositivo tendrá dos modos de operación principales:
 - Proyección de texto en pantalla integrada.
 
 
-https://github.com/user-attachments/assets/6b300171-9f06-48bf-802c-d039deb3fb66
+![WhatsApp Video 2025-06-27 at 7 24 46 PM](https://github.com/user-attachments/assets/ea95e0dd-5182-47cc-a678-124ba3b0aa0c)
 
 
 ---
