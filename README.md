@@ -3,7 +3,7 @@
 
 
 
-_Dispositivo portátil de interpretación automática para personas sordas._
+_Dispositivo portátil de interpretación automática de Lengua de Señas Argentina (LSA)._
 
 ## 🏫 Universidad Nacional de Lomas de Zamora  
 **Facultad de Ingeniería – Cátedra de Vigilancia Tecnológica**  
