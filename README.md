@@ -6,8 +6,7 @@
 _Dispositivo portátil de interpretación automática de Lengua de Señas Argentina (LSA)._
 
 ## 🏫 Universidad Nacional de Lomas de Zamora  
-**Facultad de Ingeniería – Cátedra de Vigilancia Tecnológica**  
-**Autores:** Ignacio Ezequiel Gauna (DNI 42.874.840), Juan Pablo Saracino (DNI 42.113.281)  
+  **Autores:** Ignacio Ezequiel Gauna , Juan Pablo Saracino   
 **Año:** 2025
 
 
