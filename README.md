@@ -6,9 +6,11 @@
 _Dispositivo portátil de interpretación automática de Lengua de Señas Argentina (LSA)._
 
 ## 🏫 Universidad Nacional de Lomas de Zamora  
-  **Autores:** Ignacio Ezequiel Gauna , Juan Pablo Saracino   
-**Año:** 2025
+  **Autores:** 
+  - Ignacio Ezequiel Gauna 
+  - Juan Pablo Saracino   
 
+**Año:** 2025
 
 ---
 
