@@ -17,10 +17,7 @@
 ## Índice
 
 1. [Introducción](#1-introducción)  
-2. [Funcionalidad del dispositivo](#2-funcionalidad-del-dispositivo)  
-   - [2.1. Estructura General del Proyecto](#21-estructura-general-del-proyecto)  
-   - [2.2. Descripción del Flujo de Funciones](#22-descripción-del-flujo-de-funciones)  
-   - [2.3. Sincronización y Operación Simultánea](#23-sincronización-y-operación-simultánea)  
+2. [Funcionalidad del dispositivo](#2-funcionalidad-del-dispositivo)    
 3. [Evolución del prototipo](#3-evolución-del-prototipo)  
 4. [Diseño electrónico](#4-diseño-electrónico)  
 5. [Software](#5-software)  
@@ -190,6 +187,76 @@ Para la movilidad de la cámara se utilizó el servomotor SG90, un microservo co
   <br>
   <em>Figura 14: SG90 Imagen de catálogo y composición interna</em>
 </p>
+
+### 4.8. Análisis de Consumo de Energía y Conexionado
+**1.	Componentes y Requisitos Eléctricos:**
+
+| **Componentes**       | **Tensión** | **Corriente Máxima**                | **Observaciones**                                      |
+|------------------------|-------------|-------------------------------------|--------------------------------------------------------|
+| Servo SG90             | 5V DC       | 500 mA                              | Pico durante movimiento                                |
+| PAM8403                | 5V DC       | 1.5 A                               | Máximo a volumen alto (3W + 3W)                        |
+| OLED SSD1306           | 5V DC       | 25 mA                               | Consumo constante                                      |
+| **Fuente externa**     | **5V DC**   | **2A (máx)**                        | **Alimenta los 4 componentes anteriores**              |
+| Raspberry Pi Zero 2W   | 5V USB      | 1.2 A                               | Cámara OV5647 (alimentada por Pi)                      |
+| INMP441                | 3.3V DC     | 1.5 mA                              | Utiliza el 1117-3.3 de la Raspberry                    |
+| **Fuente PC**          | **5V USB**  | **USB 2.0 200 mA / USB 3.0 1.5A**   | **Alimenta Raspberry + Cámara + micrófono**           |
+
+**2. Cálculos de Consumo (Fuente Externa de 5V/2A)**
+
+- Corriente Total:
+
+$$
+I_{total} = I_{servo} + I_{PAM8403} + I_{OLED}
+$$
+
+$$
+I_{total} = 0.5\,A + 0.8\,A + 0.025\,A = 1.325\ A
+$$
+
+- Margen de Seguridad:
+
+$$
+Margen = \frac{2A - 1.325A}{2A} * 100\%
+$$
+
+$$
+Margen = 33.67%
+$$
+
+**Cálculos para Raspberry Pi (Alimentada por USB de PC)**:
+
+$$
+I_{RPi} + \text{Cámara} = 1.2\ A
+$$
+
+**(Recomendado: USB 3.0 con capacidad > 1.5A)**
+
+3.	Diagrama de Conexionado Simplificado:
+
+<p align="center">
+  <img width="545" height="248" alt="image" src="https://github.com/user-attachments/assets/98283316-856f-4f5f-8e57-45690aa2ec4f" />
+  <br>
+  <em>Figura 15: Diagrama de alimentación mediante Raspberry</em>
+</p>
+
+<p align="center">
+  <img width="344" height="294" alt="image" src="https://github.com/user-attachments/assets/62d9362c-06ee-462c-9580-0a5740a9231f" />
+  <br>
+  <em>Figura 16: Diagrama de alimentación mediante fuente externa</em>
+</p>
+
+**4. Recomendaciones a tener en cuenta:**
+
+Fuente Externa 5V/2A:
+- Suficiente para los componentes (consumo máximo: 1.33A < 2A).
+
+Raspberry Pi:
+- Utilizar puerto USB 3.0 (soporte > 1.5A).
+- Evitar extensiones USB largas para prevenir caída de tensión. 
+
+Advertencias:
+- El servo y el PAM8403 pueden generar picos de corriente:  tener en cuenta de incluir un filtro RC pasivo ósea un capacitor electrolítico (100-470µF) en la entrada de 5V.
+- Separar físicamente cables de audio (I_INMP441) y potencia para reducir interferencia.
 
 ---
 
